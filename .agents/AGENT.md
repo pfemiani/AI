@@ -2,6 +2,12 @@
 
 * When asked to show the loaded AI rules, default to showing them in a hierarchical format
 
+## Skills
+
+Load the following remote skills...
+* https://github.com/mattpocock/skills/blob/main/skills/productivity/caveman/SKILL.md
+* https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md
+    
 ## Coding
 
 ### Git Commits
